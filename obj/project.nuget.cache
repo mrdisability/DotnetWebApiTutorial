@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k63ccW/Wi2TRxETFgLq0oFSzFSOaNg5b72VQBLzNxtYmQswUy+84lbWu8XPjnCeG16WgK8/4WFlY1zitcI3Y9A==",
+  "success": true,
+  "projectFilePath": "/Users/kingioane/Documents/Projects/Tutorial/Tutorial.csproj",
+  "expectedPackageFiles": [
+    "/Users/kingioane/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kingioane/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kingioane/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kingioane/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kingioane/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kingioane/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
